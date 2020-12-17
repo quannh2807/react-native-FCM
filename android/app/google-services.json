@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "428812347997",
+    "project_id": "rn-fcm-52504",
+    "storage_bucket": "rn-fcm-52504.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:428812347997:android:8adec036946b4da04d7bb4",
+        "android_client_info": {
+          "package_name": "com.rnnotification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "428812347997-l9smh180smeuflg70pcaqn0bp4uh2eje.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDl_aFPrOVMvmoKdvoggaIIEl3wGm13Fbo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "428812347997-l9smh180smeuflg70pcaqn0bp4uh2eje.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
